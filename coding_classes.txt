@@ -1,0 +1,16 @@
+['AlumniSansCollegiateOne-Italic',
+ 'AlumniSansCollegiateOne-Regular',
+ 'ArefRuqaaInk-Bold',
+ 'ArefRuqaaInk-Regular',
+ 'BrassMono-Bold',
+ 'BrassMono-BoldItalic',
+ 'BrassMono-Italic',
+ 'BrassMono-Regular',
+ 'GaneshaType-Regular',
+ 'GhastlyPanicCyr',
+ 'Realest-Extended',
+ 'TanaUncialSP',
+ 'ambidexter_regular',
+ 'better-vcr-5.2']
+
+# список кодирования классов шрифтов, порядок в котором написаны шрифты, соответствует их номеру, начиная с 0
